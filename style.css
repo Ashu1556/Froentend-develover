@@ -1,0 +1,30 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: #3FEEE6;
+  }
+  .container{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 20px;
+    background-color: #7395AE;
+    padding: 5px;
+    
+    
+  }
+  .box1{
+      margin-top: -241px;
+  }
+  span{
+      margin-top: 30px;
+      margin-right: 880px;
+      color:bisque;
+  }
+  box2{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 800px;
+    padding-right: 800px;
+  }
+  
